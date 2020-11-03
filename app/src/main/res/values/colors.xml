@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!--    color onboarding-->
+    <color name="colorSkip">#DFE7F2</color>
+    <color name="colorNext">#8B81F4</color>
+    <color name="colorTextBoarding">#575A89</color>
+    <color name="colorButtonBoarding">#584FA5</color>
+    <color name="colorIndicator">#E1DDFE</color>
+
+</resources>

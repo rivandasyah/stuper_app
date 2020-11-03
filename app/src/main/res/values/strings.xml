@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stuper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    onboarding-->
+    <string name="text_skip">Skip</string>
+    <string name="text_next">Next</string>
+    <string name="text_get_started">Get Started</string>
+    <string name="text_content_description">Content Description</string>
+    <string name="text_discuss_together">Discuss Together!</string>
+    <string name="first_sub_desc_on_boarding">You can find new friends to discuss lessons  and assignments together according to their  respective skills</string>
+    <string name="text_your_progress">Your Progress</string>
+    <string name="second_sub_desc_on_boarding">Student learning processes can be easily monitored by their teachers</string>
+    <string name="text_task_reminder">Task Reminder</string>
+    <string name="third_sub_desc_on_boarding">Just write down your task  and task reminder will remind you</string>
+
+</resources>
