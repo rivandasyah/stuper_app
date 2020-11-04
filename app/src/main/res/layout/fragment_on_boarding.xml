@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="500dp"
+    android:background="@android:color/white"
     tools:context=".onboarding.OnBoardingFragment">
 
     <ImageView
@@ -45,4 +46,5 @@
         app:layout_constraintEnd_toEndOf="@+id/iv_on_boarding"
         app:layout_constraintStart_toStartOf="@+id/iv_on_boarding"
         app:layout_constraintTop_toBottomOf="@+id/tv_desc_on_boarding" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

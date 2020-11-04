@@ -5,7 +5,7 @@
         <shape
             android:innerRadius="0dp"
             android:shape="ring"
-            android:thickness="@dimen/_8sdp"
+            android:thickness="@dimen/_6sdp"
             android:useLevel="false">
 
             <solid android:color="@color/colorButtonBoarding" />
